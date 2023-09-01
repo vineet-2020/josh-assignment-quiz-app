@@ -4,6 +4,11 @@
 
 This repository contains a Quiz Application built using Next, React and Redux. The application allows users to take a quiz with multiple-choice questions, track their progress, and submit their answers for evaluation. Below, you'll find an overview of the application, setup instructions, assumptions made during development, and challenges faced.
 
+## Project URL
+
+You can access the live version of this project at [Quiz Application](https://jovial-frangollo-898dbe.netlify.app).
+
+
 ### Application Components
 
 The application consists of the following components:
